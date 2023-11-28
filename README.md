@@ -60,8 +60,8 @@ Also, to keep with the spirit of YT-DLP, this software will be licensed under th
 
 # USAGE
 #### The YT-AD-DL script is executed as so:
-$ `./yt-ad-dl.sh https://www.youtube.com/watch?v=VIDEOID`
-or
+$ `./yt-ad-dl.sh https://www.youtube.com/watch?v=VIDEOID`<br>
+or<br>
 $ `./yt-ad-dl.sh https://vid.frontend.invalid/watch?v=VIDEOID`
 
 This should be conpatible with YT video URLs, as well as the many alternative frontends with compatible URL formats (Invidious, Piped, etc...).
